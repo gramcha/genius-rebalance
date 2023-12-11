@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/.idea/sonarlint/issuestore/2/f/2fc2f5eb5a81b5314abc214e73787336345edbae
+/.idea/sonarlint/issuestore/a/7/a77b15c0d64cf6111e025645e562faf8ccabb9d7
+/.idea/sonarlint/issuestore/c/9/c9903d133a838bfc85a5595e577eece8c8e9bba5
+/.idea/sonarlint/issuestore/index.pb
+/.idea/sonarlint/securityhotspotstore/2/f/2fc2f5eb5a81b5314abc214e73787336345edbae
+/.idea/sonarlint/securityhotspotstore/a/7/a77b15c0d64cf6111e025645e562faf8ccabb9d7
+/.idea/sonarlint/securityhotspotstore/c/9/c9903d133a838bfc85a5595e577eece8c8e9bba5
+/.idea/sonarlint/securityhotspotstore/index.pb
+/.idea/.gitignore
+/.idea/genius-rebalance.iml
+/.idea/modules.xml
+/.idea/vcs.xml
